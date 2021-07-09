@@ -1,0 +1,23 @@
+# string varaibles
+char_name = "John"   # character variable
+char_age = "35"     # string variable
+# first version
+print("Man named George")
+print("70 years old")
+print("Liked name")
+print("Didn't like age")
+# new version
+print("new version")
+print("Man named " + char_name + ",")
+print("_" + char_age + " years old")
+print("Liked name " + char_name)
+print("Didn't like " + char_age)
+char_age = "65"
+print("He is " + char_age)
+# varaible numbers 
+char_age_1 = 50
+just_num = 50.4567
+# Boolean variables
+isMale = True
+IsFemale = False
+print(just_num)
